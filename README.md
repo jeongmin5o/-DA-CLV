@@ -15,7 +15,7 @@
 ### 1️⃣ 현재 고객 데이터를 공식에 대입하여 CLV 도출  -> 현재 고객의 가치 단순 측정
     
     ▶️ (기본) 데이터 프레임 생성
-    1) 각 고객별 TOTAL PIRCE 구하기 
+    1) 각 고객별 TOTAL PRICE 구하기 
       = 평균 주문 총액 * 1년 평균 구매 횟수 * 평균 유지 시간(년)
     2) 고객 ID 기준으로 TOTAL_TRANSACTION, TOTAL_UNIT, TOTAL_PRICE 구하기
       TOTAL_TRANSACTION: 영수증 번호(청구서) 중복값 제거한 갯수 
