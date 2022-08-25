@@ -55,6 +55,10 @@ die = 제품에 무관심**
     빈도 = 반복 구매의 총 횟수
     money_value = 구매당 평균 수입
 
+** 에러! **
+📝Try adding a larger penalizer to see if that helps convergence.
+Recency = 0 인경우 에러메세지가 뜬다!
+그러니 Recency가 0인 값은 제외하고 보던가, Recency 구하는 현재 날짜를 하루 뒤로 
 
 ### 해석 방법
 
